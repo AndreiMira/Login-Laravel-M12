@@ -1,0 +1,1 @@
+<img src="{{ asset('images/pochita.webp') }}" width=60px height=60px alt="pochita logo" {{ $attributes }}>
